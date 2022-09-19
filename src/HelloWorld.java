@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Zeile 4"); // STRG + D kopierte neue Zeile
         System.out.println("Zeile 5");
         System.out.println("Das ist nur ein Test!");
+        System.out.println("Zweiter Test!");
     }
 
 }
